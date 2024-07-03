@@ -16,8 +16,8 @@
 - git add
     - ステージングエリアに追加
 - git commit
-    -コミットの実行
-        - git commit -m "コメント内容" でコメントを追加
+    - コミットの実行
+    - git commit -m "コメント内容" でコメントを追加
 
 3.修正系
 - git commit --amend --no-edit
