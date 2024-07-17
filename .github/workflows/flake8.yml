@@ -2,13 +2,13 @@ name: flake8
 
 on:
   pull_request:
-    path:
+    paths:
       - '**.py'
 
 
 jobs:
   syntax-check:
-    runs-on: ubuntsu-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
