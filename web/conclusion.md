@@ -1,6 +1,6 @@
 ---
 layout: page
-title "まとめ"
+title "git memo"
 permalink: web/conclusion
 ---
 
