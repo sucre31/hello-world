@@ -10,4 +10,4 @@ title "ソフトウェア工学 2024"
 
 git/github演習
 
-[git/memo] (web/conclusion)
+[git/memo] (/web/conclusion)
