@@ -1,6 +1,6 @@
 ---
 layout: page
-title "git memo"
+title: "git memo"
 permalink: web/conclusion
 ---
 
