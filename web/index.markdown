@@ -6,8 +6,12 @@ layout: home
 title: "ソフトウェア工学 2024"
 ---
 
-#ソフトウェア工学 2024
+# ソフトウェア工学 2024
 
-git/github演習
+## ソフトウェア開発手法
+- 第1回～第9回まで<br>
+[開発手法まとめ](/web/softwereDevelop.md)
 
-[git memo] (/web/conclusion)
+## バージョン管理
+- 第10回～<br>
+[git/github概要](/web/conclusion)
